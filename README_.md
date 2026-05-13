@@ -6,7 +6,7 @@
 [!\[License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [!\[GeoPandas](https://img.shields.io/badge/GeoPandas-0.14-orange.svg)](https://geopandas.org/)
 
-!\[Overview Map](top\_20\_overview\_map.png)
+
 
 \---
 
