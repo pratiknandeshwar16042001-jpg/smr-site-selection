@@ -67,25 +67,25 @@ Each location scored 0-100 across 5 weighted criteria:
 
 ### Key Insights from Results
 
-**🌊 Water Access is Absolutely Critical**
+**Water Access is Absolutely Critical**
 
 * **100%** of top 20 sites scored perfect (100/100) on water access
 * All sites are coastal or on major rivers
 * Zero viable inland sites confirm water as a binding constraint
 
-**🏭 Industrial Proximity Drives Top Rankings**
+**Industrial Proximity Drives Top Rankings**
 
 * Sites scoring 100/100 on industrial proximity dominate top 10
 * Top site (83.2) combines perfect industrial + water + low population
 * Grid connection surprisingly less critical than expected (rank 3 has 0/100 grid score!)
 
-**⚛️ Nuclear Precedent Creates "Sweet Spots"**
+**Nuclear Precedent Creates "Sweet Spots"**
 
 * Rank 3 and 4 near existing nuclear sites (100/100 and 88.6/100 nuclear scores)
 * These compensate for zero grid connection with regulatory advantages
 * Co-location strategy validated by strong performance
 
-**🗺️ Geographic Clustering Reveals Strategy**
+**Geographic Clustering Reveals Strategy**
 
 * **Scotland dominates:** Top 5 all in Scotland (west coast + highlands)
 * Driven by: Low population density + coastal access + industrial potential
@@ -273,7 +273,7 @@ Results validated against real-world patterns:
 
 \---
 
-## 👤 Author
+## Author
 
 **\[Pratik Nandeshwar]**
 
@@ -293,7 +293,7 @@ Results validated against real-world patterns:
 
 \---
 
-## 📄 License
+##  License
 
 This project is available under the MIT License.
 
