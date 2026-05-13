@@ -43,7 +43,7 @@
 
 [**Full Results (CSV)**](top_20_smr_sites.csv)  
 [**Score Breakdown Chart**](top_20_ranking_chart.png)  
-[**Interactive Map**](https://%5BYOUR-GITHUB-USERNAME%5D.github.io/smr-site-selection/) *(optional - if you set up GitHub Pages)*
+
 
 \---
 
